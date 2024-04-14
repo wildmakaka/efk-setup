@@ -1,5 +1,8 @@
 
-# EFK Set up on Minikube Cluster  
+# EFK7 Set up on Minikube Cluster  
+
+**YouTube**  
+https://www.youtube.com/watch?v=fb3CKSJTV-Q
 
 Elasticsearch will be installed first as a Statefulset which will store all the data as indexed
 Fluend will be installed as daemonset so that logs can be captured from all Nodes
